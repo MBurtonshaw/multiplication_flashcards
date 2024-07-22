@@ -49,3 +49,24 @@ button {
 .hidden {
   display:none;
 }
+
+@media screen and (max-width: 600px) {
+  body, header, footer {
+    width: 90%;
+    margin: auto;
+  }
+
+  main {
+    width: 100%;
+    margin: auto;
+  }
+
+  #answers ul {
+    display: block;
+  }
+
+  #answers li {
+    width: 50%;
+    margin: 0.5em auto;
+  }
+}
