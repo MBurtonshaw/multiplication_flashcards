@@ -1,4 +1,4 @@
-<h1>Multiplication Flashcards</h1>
+<h2>Multiplication Flashcards</h2>
   
 <h3 align="left">A JavaScript app that displays multiplication flashcards, and keeps track of the user's score</h3>
 
