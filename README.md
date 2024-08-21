@@ -1,3 +1,5 @@
+<h1>Multiplcation Flashcards</h1>
+  
 <h3 align="center">A JavaScript app that displays multiplication flashcards, and keeps track of the user's score</h3>
 
 <h3 align="left">Languages and Tools:</h3>
